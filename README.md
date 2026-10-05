@@ -1,10 +1,10 @@
 # Ecommerce links
 
-Chỗ này là link mình thấy đáng mở khi bán hàng online: sàn, web riêng, mô tả sản phẩm, đơn, hoàn tiền. Ghi chú bằng tiếng Việt. Phần skill AI ở trên cùng. Tài liệu tiếng Việt ở ngay dưới. Phần còn lại là tiếng Anh.
+Chỗ này là link mình thấy đáng mở khi bán hàng online: sàn, web riêng, mô tả sản phẩm, trang thanh toán, đơn, tiền còn lại sau khi trừ hàng và quảng cáo. Ghi chú bằng tiếng Việt. Phần skill AI ở trên cùng. Tài liệu tiếng Việt ở ngay dưới. Phần còn lại là tiếng Anh.
 
-Đang kẹt việc nào thì nhảy tới mục đó. Không phải lộ trình. Khóa của Shopee, TikTok Shop, Shopify, Amazon thì miễn phí, nhưng là bài của chính sàn. Sách thì mua. Không có link tải lậu.
+Đang kẹt việc nào thì nhảy tới mục đó. Không phải lộ trình. Khóa của Shopee, TikTok Shop, Shopify, Amazon, HubSpot thì miễn phí, nhưng là bài của chính hãng. Sách thì mua. Không có link tải lậu.
 
-Phần chính là skill AI và agent. Khóa và phần mềm cửa hàng ở sau.
+Phần chính là skill AI và agent. Khóa, sách, và phần mềm cửa hàng ở sau.
 
 Skill chỉ soạn mô tả, giá, và câu trả lời. Hoàn tiền, sửa tồn kho, và bật quảng cáo thì người phải bấm.
 
@@ -46,11 +46,27 @@ https://github.com/n8n-io/n8n
 
 https://github.com/Shopify/ucp-cli
 
-Khóa và phần mềm cửa hàng nằm bên dưới. Quảng cáo và SEO nằm ở repo marketing. Nhắn để chốt nằm ở repo bán hàng.
+Ba bộ dưới ít sao. Mình để vì chúng đúng việc catalog và bán xuyên biên giới, không phải vì đông người dùng.
+
+**Ecommerce AI skills.** Khoảng 80 sao, khoảng 10 fork. Bài và skill cho bán ra nước ngoài, Amazon, Shopify. Tác giả ghi nguồn và ngày cho các câu sự kiện. Đọc ngày trước khi tin một con số.
+
+https://github.com/kangise/ecommerce-ai-skills
+
+**Cross-border ecommerce skills.** Khoảng 60 sao. Amazon, quảng cáo, tài chính, affiliate. Repo nói thẳng khi không đủ dữ liệu, thay vì bịa một con số.
+
+https://github.com/noique/cross-border-ecommerce-skills
+
+**Awesome ecom skills.** Khoảng 50 sao. Chín skill Shopify: danh mục, SEO, ảnh, chuyển hướng. Ít người dùng. Hữu ích khi đã có shop Shopify và sợ agent ghi đè mô tả người đã viết.
+
+https://github.com/kgelster/awesome-ecom-skills
+
+Trang sản phẩm và quảng cáo còn nằm ở repo marketing, bộ Marketing Skills khoảng 53 nghìn sao. Bộ đó không chỉ để bán hàng online.
+
+https://github.com/coreyhaines31/marketingskills
 
 ## Tiếng Việt
 
-Ở Việt Nam người ta bán nhiều trên Shopee và TikTok Shop hơn là trên một web tự cài. Hai chỗ dưới là bài của chính sàn, miễn phí. Đọc để biết nút bấm và luật của sàn, đừng coi là sách trung lập.
+Ở Việt Nam người ta bán nhiều trên Shopee và TikTok Shop hơn là trên một web tự cài. Khóa dưới là bài của chính sàn, miễn phí. Đọc để biết nút bấm và luật của sàn, đừng coi là sách trung lập.
 
 **Học viện Shopee.** Bài cho người bán: đăng sản phẩm, vận hành shop, quảng cáo trên sàn.
 
@@ -59,6 +75,10 @@ https://banhang.shopee.vn/edu
 **TikTok Shop Academy, bản Việt Nam.** Livestream, video, và vận hành shop trên TikTok.
 
 https://seller-vn.tiktok.com/university/home
+
+**Cổng quản lý thương mại điện tử.** Của Bộ Công Thương. Website bán hàng phải thông báo ở đây. Đây là thủ tục, không phải bài học cách lên top.
+
+https://online.gov.vn/
 
 ### Sách
 
@@ -84,6 +104,10 @@ Phần lớn tài liệu web riêng và Amazon vẫn là tiếng Anh.
 
 https://www.shopifyacademy.com/
 
+Blog của Shopify, bài vận hành shop. Miễn phí, giọng của hãng.
+
+https://www.shopify.com/blog
+
 **Make the Sale, Google.** Một khóa trong chứng chỉ Digital Marketing and E-commerce: nghiên cứu sản phẩm, dựng shop Shopify giả, quảng cáo. Xem bài miễn phí. Chứng chỉ trên Coursera thì trả phí.
 
 https://www.coursera.org/learn/make-the-sale
@@ -91,6 +115,14 @@ https://www.coursera.org/learn/make-the-sale
 Cả chứng chỉ, nếu muốn học thêm ads và analytics quanh việc bán online:
 
 https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce
+
+**Google Skillshop.** Quảng cáo Google, gồm Shopping. Chứng chỉ miễn phí, có hạn dùng. Học nút quảng cáo, không học cách chọn hàng.
+
+https://skillshop.withgoogle.com/
+
+**HubSpot, Ecommerce Marketing.** Khóa ngắn, miễn phí: khách là ai, nội dung, email quanh một shop. HubSpot bán CRM, bài mang giọng đó.
+
+https://academy.hubspot.com/courses/ecommerce-marketing
 
 **Amazon Seller University.** Bài đăng sản phẩm, giá, giao hàng, quảng cáo trên Amazon. Miễn phí, không cần tài khoản bán. Giọng của Amazon.
 
@@ -110,15 +142,47 @@ https://www.practicalecommerce.com/
 
 https://baymard.com/blog
 
-**Common Thread Collective.** Số của shop bán thẳng cho khách: biên lợi nhuận, quảng cáo, lúc nào một kênh chết. Blog miễn phí. Họ bán dịch vụ.
+**Growth.design.** Case vẽ tay về giỏ hàng và form. Dễ xem. Miễn phí.
+
+https://growth.design/case-studies
+
+**Common Thread Collective.** Số của shop bán thẳng: biên lợi nhuận, quảng cáo, lúc nào một kênh chết. Blog miễn phí. Họ bán dịch vụ.
 
 https://commonthreadco.com/blogs/coachs-corner
 
-**Don't Make Me Think, Steve Krug.** Sách mua. Về trang web người ta dùng được, hợp khi sửa trang sản phẩm và giỏ hàng. Mình không để link vì trang tác giả đang chặn máy.
+### Sách
+
+Mỗi cuốn một việc. Mua bản giấy hoặc ebook chính hãng. Đừng tải bản "full PDF" trên mạng.
+
+**Making Websites Win.** Sách của Conversion Rate Experts, về sửa trang cho người ta mua. Trang của họ đang tặng ebook nếu để email. Bản giấy thì mua. Đây là một công ty làm dịch vụ, lấy cách làm, đừng coi mọi case là của shop mình.
+
+https://conversion-rate-experts.com/making-websites-win/
+
+**The Mom Test, Rob Fitzpatrick.** Cách hỏi trước khi nhập một lô hàng, để khách khỏi khen cho vui. Ngắn. Nên đọc trước khi chốt nhà cung cấp.
+
+https://www.momtestbook.com/
+
+**Obviously Awesome, April Dunford.** Sản phẩm này dành cho ai, đang cạnh tranh với cái gì trong đầu khách. Sách bán trên trang của bà.
+
+https://www.aprildunford.com/
+
+**They Ask, You Answer, Marcus Sheridan.** Viết những câu khách đang hỏi, thay vì viết bài khoe shop. Sách thì mua. Trang của tác giả:
+
+https://marcussheridan.com/
+
+**Ecommerce Evolved, Tanner Larsson.** Một cuốn gom cả shop: hàng, offer, khách cũ, số liệu. Giọng rất chắc, rất Mỹ. Lấy khung vận hành, đừng chép câu. Trang dưới là công ty của ông, họ bán dịch vụ.
+
+https://buildgrowscale.com/
+
+**Profit First, Mike Michalowicz.** Cách chia tiền ngay khi đơn về, để khỏi bán nhiều mà không còn tiền nhập hàng. Bản gốc. Cuốn *Profit First for Ecommerce Sellers* là bản viết lại cho shop, người khác viết. Mình chưa thấy trang tác giả của bản đó đang sống ổn, nên không để link riêng. Mua bản giấy nếu đang kẹt tiền hàng.
+
+https://mikemichalowicz.com/
+
+**Don't Make Me Think, Steve Krug.** Về trang người ta dùng được, hợp khi sửa trang sản phẩm và giỏ. Mua bản giấy. Trang tác giả đang chặn máy nên mình không để link.
 
 ### Phần mềm mở
 
-Tự cài khi làm web riêng. Bán trên Shopee hoặc TikTok Shop thì không cần mấy cái này. Chọn một. Đừng cài hết để thử. Số sao khoảng tháng 10/2026.
+Tự cài khi làm web riêng. Bán trên Shopee hoặc TikTok Shop thì không cần mấy cái này. Chọn một phần mềm cửa hàng. Đừng cài hết để thử. Số sao khoảng tháng 10/2026.
 
 **Medusa.** Cửa hàng headless, họ viết là cho developer và agent. Khoảng 37 nghìn sao, khoảng 5.300 fork. Nặng.
 
@@ -132,6 +196,18 @@ https://github.com/bagisto/bagisto
 
 https://github.com/saleor/saleor
 
+**Spree.** Nền bán hàng Ruby, có API và storefront. Khoảng 16 nghìn sao, khoảng 5.300 fork.
+
+https://github.com/spree/spree
+
+**Next.js Commerce.** Mẫu giao diện của Vercel, khoảng 14 nghìn sao, khoảng 5.500 fork. Đây là cái vỏ để học, không phải phần mềm giữ đơn và kho. Phải nối vào Shopify hoặc một nền khác.
+
+https://github.com/vercel/commerce
+
+**Alokai, repo vẫn tên vue-storefront.** Mặt trước của shop, khoảng 11 nghìn sao, khoảng 2.100 fork. Cũng không tự bán hàng. Nối vào Medusa, Saleor, Shopify, hoặc Shopware.
+
+https://github.com/vuestorefront/vue-storefront
+
 **EverShop.** Cửa hàng TypeScript, gọn hơn Medusa. Khoảng 10.500 sao, khoảng 2.400 fork.
 
 https://github.com/evershopcommerce/evershop
@@ -140,9 +216,17 @@ https://github.com/evershopcommerce/evershop
 
 https://github.com/woocommerce/woocommerce
 
+**nopCommerce.** Cửa hàng trên .NET. Khoảng 10 nghìn sao, khoảng 6.000 fork. Hợp nếu team đang viết C#, không phải lựa đầu tiên ở Việt Nam.
+
+https://github.com/nopSolutions/nopCommerce
+
 **PrestaShop.** Khoảng 9.200 sao, khoảng 5.000 fork.
 
 https://github.com/PrestaShop/PrestaShop
+
+**Aimeos cho Laravel.** Khoảng 8.700 sao, khoảng 1.100 fork. Cùng hướng với Bagisto. Team PHP chọn một.
+
+https://github.com/aimeos/aimeos-laravel
 
 **Vendure.** Headless, NestJS. Khoảng 8.500 sao, khoảng 1.500 fork. Cùng việc với Medusa và Saleor, chọn một.
 
@@ -156,7 +240,31 @@ https://github.com/opencart/opencart
 
 https://github.com/magento/magento2
 
-Team PHP và shop vừa thì Bagisto hoặc WooCommerce. Muốn tách giao diện khỏi phần bán thì Medusa hoặc Saleor.
+**django-oscar.** Cửa hàng trên Django. Khoảng 6.600 sao, khoảng 2.300 fork. Hợp team Python, không phải người mới mở shop.
+
+https://github.com/django-oscar/django-oscar
+
+**Solidus.** Nhánh Rails tách từ Spree đời trước. Khoảng 5.300 sao, khoảng 1.400 fork. Đã tính Spree thì không cài thêm cái này.
+
+https://github.com/solidusio/solidus
+
+**Shopware.** Nền bán hàng phổ biến ở châu Âu, Symfony. Khoảng 3.400 sao, khoảng 1.200 fork. Ít người Việt dùng hơn WooCommerce.
+
+https://github.com/shopware/shopware
+
+**Dawn.** Theme mẫu của Shopify. Khoảng 3.100 sao, khoảng 4.500 fork. Chỉ hữu ích khi shop đang nằm trên Shopify, không phải phần mềm tự cài.
+
+https://github.com/Shopify/dawn
+
+**Hydrogen.** Khung làm mặt trước cho Shopify. Khoảng 2.100 sao, khoảng 450 fork. Dành cho người viết React, không dành cho người mới đăng sản phẩm.
+
+https://github.com/Shopify/hydrogen
+
+**Reaction Commerce** khoảng 12 nghìn sao, nhưng dự án đã dừng. Đừng cài mới.
+
+https://github.com/reactioncommerce/reaction
+
+Team PHP và shop vừa thì Bagisto hoặc WooCommerce. Muốn tách giao diện khỏi phần bán thì Medusa hoặc Saleor. Mẫu Next.js và Alokai chỉ là mặt trước.
 
 ### Muốn đào tiếp
 
@@ -171,3 +279,7 @@ https://github.com/daokimluc/digital-sales-links
 Sau khi khách đã mua:
 
 https://github.com/daokimluc/customer-success-links
+
+Đọc số của shop:
+
+https://github.com/daokimluc/data-analytics-links
